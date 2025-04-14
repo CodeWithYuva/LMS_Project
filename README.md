@@ -85,12 +85,6 @@ cd lms-backend
 
 ---
 
-## 🧪 Testing
-
-```bash
-# Run all unit tests
-./mvnw test
-```
 
 ---
 
